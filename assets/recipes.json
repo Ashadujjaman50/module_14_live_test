@@ -1,0 +1,19 @@
+{
+  "recipes": [
+    {
+      "title": "Chicken Curry",
+      "description": "A spicy and delicious chicken curry.",
+      "ingredients": ["Chicken", "Sauce", "Salte"]
+    },
+    {
+      "title": "Pasta Alfredo",
+      "description": "Creamy white sauce pasta.",
+      "ingredients": ["Pasta", "Chicken"]
+    },
+    {
+      "title": "Beef Steak",
+      "description": "Grilled steak with pepper sauce.",
+      "ingredients": ["Beef", "Rice", "Masala"]
+    }
+  ]
+}
