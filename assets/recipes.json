@@ -1,19 +1,39 @@
 {
   "recipes": [
     {
-      "title": "Chicken Curry",
-      "description": "A spicy and delicious chicken curry.",
-      "ingredients": ["Chicken", "Sauce", "Salte"]
+      "title": "Pasta Carbonara",
+      "description": "Creamy pasta dish with bacon and cheese.",
+      "ingredients": ["spaghetti", "bacon", "egg", "cheese"]
     },
     {
-      "title": "Pasta Alfredo",
-      "description": "Creamy white sauce pasta.",
-      "ingredients": ["Pasta", "Chicken"]
+      "title": "Caprese Salad",
+      "description": "Simple and refreshing salad with tomatoes, mozzarella, and basil.",
+      "ingredients": ["Tomatoes", "mozzarella", "basil"]
     },
     {
-      "title": "Beef Steak",
-      "description": "Grilled steak with pepper sauce.",
-      "ingredients": ["Beef", "Rice", "Masala"]
+      "title": "Banana Smoothie",
+      "description": "Healthy and creamy smoothie with bananas and milk.",
+      "ingredients": ["bananas", "milk"]
+    },
+    {
+      "title": "Chicken Stir-Fry",
+      "description": "Quick and flavorful stir-fried chicken with vegetables.",
+      "ingredients": ["chicken breast", "broccoli", "carrot", "soy sauce"]
+    },
+    {
+      "title": "Grilled Salmon",
+      "description": "Delicious grilled salmon with lemon and herbs.",
+      "ingredients": ["salmon fillet", "lemon", "olive oil", "dill"]
+    },
+    {
+      "title": "Vegetable Curry",
+      "description": "Spicy and aromatic vegetable curry.",
+      "ingredients": ["mixed vegetables", "coconut milk", "curry powder"]
+    },
+    {
+      "title": "Berry Parfait",
+      "description": "Layered dessert with fresh berries and yogurt.",
+      "ingredients": ["berries", "yogurt", "granola"]
     }
   ]
 }

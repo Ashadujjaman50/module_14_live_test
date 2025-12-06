@@ -2,6 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:module_14_live_test/ui/details.dart';
 
 
 class RecipeListScreen extends StatefulWidget {
@@ -86,6 +87,14 @@ class _RecipeListScreenState extends State<RecipeListScreen> {
                     ),
                   ),
                   subtitle: Text(recipe.description),
+                  onTap: () {
+                    Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (_) => RecipeDetailScreen(recipe: recipe),
+                      ),
+                    );
+                  },
                 ),
               );
 
